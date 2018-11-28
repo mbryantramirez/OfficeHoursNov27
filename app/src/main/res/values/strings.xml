@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">OfficeHoursNov27</string>
+  <string name="send">Send Name</string>
+  <string name="user_prompt">Please Enter Your Name</string>
+  <string name="title_activity_display">DisplayActivity</string>
+  <string name="display_activity_no_name">No Name Received</string>
+</resources>
